@@ -1,2 +1,2 @@
-# bootstrap-uygulama--rnekleri
+# bootstrap-uygulama-örnekleri
 Bootstrap Uygulama Örnekleri
